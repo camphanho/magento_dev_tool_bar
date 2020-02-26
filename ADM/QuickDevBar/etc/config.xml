@@ -3,7 +3,7 @@
    <default>
     <dev>
       <quickdevbar>
-        <enable>1</enable>
+        <enable>2</enable>
         <area>global</area>
         <appearance>memorize</appearance>
       </quickdevbar>
