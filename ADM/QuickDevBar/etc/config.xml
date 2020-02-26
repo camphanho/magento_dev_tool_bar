@@ -3,9 +3,9 @@
    <default>
     <dev>
       <quickdevbar>
-        <enable>2</enable>
+        <enable>1</enable>
         <area>global</area>
-        <appearance>memorize</appearance>
+        <appearance>collapsed</appearance>
       </quickdevbar>
     </dev>
    </default>
